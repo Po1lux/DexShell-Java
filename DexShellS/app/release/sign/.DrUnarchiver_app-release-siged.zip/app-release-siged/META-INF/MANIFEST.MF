@@ -1,0 +1,3222 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_clear_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._layout
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: jUXes5sBIdjAuvOfVrnJvHW7r+w=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult
+ .9.png
+SHA1-Digest: 8OPlZ8V68s1mj6gv0fKMOwBh328=
+
+Name: __MACOSX/app-release/res/layout-v26/._abc_screen_toolbar.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_list_selector_holo_light
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._notification_bg_low_
+ normal.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZQj/eyI9j4WxIRNxEDiwFqKcMCY=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.p
+ ng
+SHA1-Digest: EikVyBT5I7pmbJO2k8qF0V5hUc0=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_longpress
+ ed_holo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_list_selector_background_transition
+ _holo_dark.xml
+SHA1-Digest: +QTHReTrgiN6LTjwVKCF0iDMoVM=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_switch_to_on
+ _mtrl_00012.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_tooltip_exit.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_selector_disabled_hol
+ o_light.9.png
+SHA1-Digest: gEASdCSZRJ4YOoVpRWWNHiS124A=
+
+Name: app-release/res/drawable/notification_icon_background.xml
+SHA1-Digest: 7vwQLqL4Esz0sRYP3rNCMSwCwV8=
+
+Name: app-release/res/layout/abc_tooltip.xml
+SHA1-Digest: DNWCsKAM/GrxiYpg6WNNv+5bU6w=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012
+ .9.png
+SHA1-Digest: 9RE5bs6+8zUsrKjS7YSSnBXysrc=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9
+ .png
+SHA1-Digest: KeYlnNX3N4Fxxxtr5iR+kpC5lRo=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_black
+ _36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_check_to_on_
+ mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_checkbox_checked_mtrl_animation
+ _interpolator_1.xml
+SHA1-Digest: 8MpuwYdjLzcIJdUY+UVQ3ICY5ns=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_half_b
+ lack_48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00
+ 012.9.png
+SHA1-Digest: 02nBcK0ou91ukynkxGLtaBHy3KA=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.
+ png
+SHA1-Digest: 0kKvPwdj7zBzN9UX4+jHAPKwyCA=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_radio_material_anim.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha
+ .png
+SHA1-Digest: jnLnSBDt0id1WrhEiz1zra3RW6M=
+
+Name: app-release/res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: RdospN06VA+UPrMsqzdWuunyfEQ=
+
+Name: __MACOSX/app-release/res/anim/._abc_slide_out_top.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_slide_in_top.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alp
+ ha.png
+SHA1-Digest: zLtLDGOiJ207WrTCsWah2jkG/84=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.p
+ ng
+SHA1-Digest: Fm09+WRDtBCRv4/ah+XmMouGBLA=
+
+Name: app-release/res/layout/abc_action_mode_bar.xml
+SHA1-Digest: 5Xzaw9VH/buDSbUT2nPt9FdFHBY=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_scrubber_control_to_press
+ ed_mtrl_000.png
+SHA1-Digest: pf8Tt2oAabuOsAiSswddcfLUQAQ=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_selector_di
+ sabled_holo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v24/._ic_launcher_foreground.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: zxUoWT+pdOdHlu6S3N24afaFkfo=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_middle_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_black_1
+ 6dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.pn
+ g
+SHA1-Digest: Ub7EVU/MNH+VSjP7k8FYzKJQoQ4=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_spinner_mtrl_a
+ m_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_check_to_
+ on_mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: xgnROefed1vgMaxaqCgtRMAIU/Q=
+
+Name: __MACOSX/app-release/res/mipmap-mdpi-v4/._ic_launcher.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: Z5Z3Dm/XRJkOUh1xLmMSszPpJ3s=
+
+Name: app-release/res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: DDJ39WQcOrPYgPXBiIXLkn2H5v4=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxhdpi-v17/._abc_ic_menu
+ _cut_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_edittext.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_right_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/btn_checkbox_to_checked_box_inner_merged_an
+ imation.xml
+SHA1-Digest: kP+UrK1ebkPehWegrLcb7Iual5I=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_menu_item_layout.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_black_48
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_000
+ 12.9.png
+SHA1-Digest: KNeuxjJeOss8IP0JXYKjFjOPVPU=
+
+Name: __MACOSX/app-release/res/drawable/._abc_switch_thumb_material.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: iuZgHfgnv7s0XCOT/uNTwQmIZqI=
+
+Name: app-release/res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: aQCvPrQtze5pgB+4qs3kxODSQBQ=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alph
+ a.png
+SHA1-Digest: n8TfpaUDWC1ZG/DnCL+kvaeXf08=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha
+ .png
+SHA1-Digest: KcAKbOCiTO5UMcKfzx/+vncLmXg=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_a
+ lpha.png
+SHA1-Digest: GsekZVTmqt7NzcA9FoawMuFDm0E=
+
+Name: app-release/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed
+ _mtrl_000.png
+SHA1-Digest: 1Sq+VOFFXYaggLRmUPg5CpP+b1M=
+
+Name: __MACOSX/app-release/._res
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ab_share_pack_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_selector_disabled_holo
+ _light.9.png
+SHA1-Digest: X+Ryi5rsXdbFYYdv5crORIncYts=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_pressed_hol
+ o_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_switch_to_on
+ _mtrl_00001.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/ic_launcher_background.xml
+SHA1-Digest: vC+oIV4jqVp9VJ+fL6FbpAyLLME=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_commit_searc
+ h_api_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_right_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: Uy3sSl1ZH2Y60POBwYCohLAQ76g=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_cab_background_
+ top_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_search_api_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alp
+ ha.9.png
+SHA1-Digest: CBqMMZftTVGbPGhxmgrI/nON0eQ=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_menu_cut_mtrl
+ _alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.p
+ ng
+SHA1-Digest: SQw98eLJjD9P26uGhCD2czwxfIU=
+
+Name: __MACOSX/app-release/res/layout-v21/._notification_action.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alph
+ a.png
+SHA1-Digest: c+ieuII6udSDVml51EH3TH6KocA=
+
+Name: __MACOSX/app-release/res/layout/._abc_alert_dialog_title_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_item_background_holo_lig
+ ht.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxhdpi-v17/._abc_spinner
+ _mtrl_am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am
+ _alpha.png
+SHA1-Digest: 3f2Gmy7pGZPASiGf+ZPR/zDMdpY=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.p
+ ng
+SHA1-Digest: x44uUsdD5wnS8x1uTf9WTb3Fux4=
+
+Name: app-release/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am
+ _alpha.png
+SHA1-Digest: 4Hw7naTONE1358HTJi9mZTJ9Hto=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_scrubber_contro
+ l_to_pressed_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v21/._notification_action_back
+ ground.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.
+ png
+SHA1-Digest: B8/7flzGxBms5IrFKYqBUqyLWuI=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_borderless_material.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/notify_panel_notification_icon_
+ bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+Name: __MACOSX/app-release/res/layout/._abc_list_menu_item_layout.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_scrubber_track
+ _mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.
+ png
+SHA1-Digest: 08nYkofkFxe3+OlvK9ayitQoSX8=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_check_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_selector_d
+ isabled_holo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_off_mtrl_ring_outer
+ _animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/abc_fade_out.xml
+SHA1-Digest: nGvwsbkq05blQEQqllA2thZwflc=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: 1y+vuoD2qUEyG9rLg5RKbDNziXo=
+
+Name: __MACOSX/app-release/res/drawable/._abc_vector_test.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.
+ png
+SHA1-Digest: dd2zj6sr+xRmZWNPRjYGn37/Nm8=
+
+Name: app-release/res/drawable-hdpi-v4/abc_textfield_search_default_mt
+ rl_alpha.9.png
+SHA1-Digest: rKn9bykS/S15HwhB01QfnElUA4A=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_left_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.p
+ ng
+SHA1-Digest: eobI6VkMzG98QREBV+/eaTz00LY=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_a
+ lpha.png
+SHA1-Digest: 1/FXt00E0Mr8GUWNIDQCnUx9Qzc=
+
+Name: __MACOSX/app-release/res/._drawable-hdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.
+ 9.png
+SHA1-Digest: TFw374/s4XaJ6tO6+xKfPns7uwA=
+
+Name: app-release/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_a
+ m_alpha.png
+SHA1-Digest: gHqcnosKJ3hj1qyF5PECFPe1Z9A=
+
+Name: __MACOSX/app-release/res/mipmap-anydpi-v26/._ic_launcher_round.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._switch_thumb_material_light.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_spinner.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: iMRDWQWaVzVv1Af0dPdDu9lMxCU=
+
+Name: app-release/res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: ZeEIIRsC6CjZMhD55MTkj1pxozY=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_left_mtr
+ l_dark.png
+SHA1-Digest: YfqyHBz9osRR6S+Oj5qpQ+T1Iao=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alph
+ a.9.png
+SHA1-Digest: V2yxxCAfGSv3RsOJAZJN+35BGuw=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_middle
+ _mtrl_light.png
+SHA1-Digest: ZjoNfwYFY/w1heN9+GIDC4AUjSI=
+
+Name: __MACOSX/app-release/res/color/._abc_primary_text_material_light
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.p
+ ng
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.
+ png
+SHA1-Digest: 7jXDjiidCXHojddyyJz5GHDIfMM=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_scrubber_control_to_presse
+ d_mtrl_000.png
+SHA1-Digest: mEMOENu6EbIk3bOPlINzieiI52k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_switch_to_o
+ n_mtrl_00012.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_menu_selectal
+ l_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_m
+ ult.9.png
+SHA1-Digest: kjQh/adr8XS+S465gr9pzFibMnM=
+
+Name: app-release/res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: dgJ3cMlsM66p5KUwicNq8OWzjhI=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_tab_indicator
+ _mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_check_to_on_
+ mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: NwtklJkSIRtTHsEAnWUiJW3eHNk=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_half_bla
+ ck_36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: ZeEIIRsC6CjZMhD55MTkj1pxozY=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: YWbbt9prsOJPwsIvkwmEAQ9AjM4=
+
+Name: __MACOSX/app-release/res/._mipmap-anydpi-v26
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._drawable-mdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.pn
+ g
+SHA1-Digest: cjcTLuyFor2apZdbjPAaXPzqPvQ=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_selector_disabled_ho
+ lo_light.9.png
+SHA1-Digest: A1pVRBaT2gk9lZQdi5aYDVOgrzY=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_pressed_hol
+ o_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-xxxhdpi-v4/._ic_launcher.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: 1Nf/dmAAPaK/s3luz5gCZh6WJ0g=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_half_bla
+ ck_16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: QwkqB2+z5Qs7GvLo5zLXyUcLuSI=
+
+Name: app-release/res/color/abc_tint_default.xml
+SHA1-Digest: +lfP6zfotBwRmqWXiIk3Og0pWkc=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_popup_background
+ _mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: QF1xyviSwDYpYJMcgPSLOtcVjcU=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha
+ .9.png
+SHA1-Digest: tUDUBN5WzuDjef2n68sSipDlxzg=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012
+ .9.png
+SHA1-Digest: RMyXK+FyPHHFR02cRVMAofD2Db0=
+
+Name: app-release/res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: 1ha1NZLMtfVec8ilq4gGpQDHAgc=
+
+Name: app-release/res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: JcVA7+C65OnJZ3Utt3EvoQBE8iM=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_a
+ lpha.9.png
+SHA1-Digest: s67XyJ58V/nJ3gadGH+Bc7MppnU=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_radio_to_on_
+ mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-xxxhdpi-v4/._ic_launcher_round.p
+ ng
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: lC47V58n3eYOJicP+Ng5Di5wekE=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_selector_d
+ isabled_holo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/notify_panel_notification_icon_
+ bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_spinner.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_checkbox_checked_mtrl_animation
+ _interpolator_0.xml
+SHA1-Digest: 8YKmDaoIyU5UJZwrlw5/59+pZKI=
+
+Name: app-release/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_al
+ pha.9.png
+SHA1-Digest: sCd/8f+M64k16WLE0LI5oJNkjJQ=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_menu_copy_mt
+ rl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_scrubber_primary
+ _mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mul
+ t.9.png
+SHA1-Digest: Hp54GwmL35swS0BwlNBQsVTidAA=
+
+Name: app-release/res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: iuBo0SgPS4BoYRp0aSQirdDphLo=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_half_
+ black_48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.pn
+ g
+SHA1-Digest: vKu7RFb+NhQUoNUzgJ9N4axYEr8=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_divider_mtr
+ l_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: i9UR7e3fV+TzsX++PyeWg/jSWI0=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.pn
+ g
+SHA1-Digest: nQwpP5iPxgHyemkkTVZXsf8xvV4=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_textfield_sear
+ ch_default_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._notification_tile_bg.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_tab_indicator_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ratingbar_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_tint_spinner.xml
+SHA1-Digest: 2A8ONHAGVXptiPdlmQxwemZkpP8=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_menu_copy_
+ mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_radio_to_on
+ _mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000
+ .png
+SHA1-Digest: 4yQp5RGqcPJVhL3STB21W1r3uqI=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_scrubber_control
+ _to_pressed_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_selector_di
+ sabled_holo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-v21/abc_dialog_material_background.xml
+SHA1-Digest: Z4tybf3vJr84KdJi9oKYETOvyV4=
+
+Name: app-release/classes.dex
+SHA1-Digest: t3Agy1qXCBgpdnGmup+hpYRFoSc=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_left_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_spinner_mtrl_
+ am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: /AIk7fXCuJJacAkth/n0y2uGDLA=
+
+Name: __MACOSX/app-release/res/color/._abc_secondary_text_material_lig
+ ht.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alph
+ a.png
+SHA1-Digest: E/mBhY9wNG5VaFmW6qL4iXjAHvY=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_menu_share_m
+ trl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_list_menu_item_icon.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_cascading_menu_item_layout
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_longpresse
+ d_holo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alph
+ a.9.png
+SHA1-Digest: chwh8cp/iajY5r0dEv3NaJiyCTg=
+
+Name: __MACOSX/app-release/res/layout/._support_simple_spinner_dropdow
+ n_item.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.
+ 9.png
+SHA1-Digest: 0nGXIGkX9PVLNDsLZlnX6dsgd0Y=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_black_
+ 48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_focused_ho
+ lo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_al
+ pha.9.png
+SHA1-Digest: I7yrQ7nrQC41MaIvtC0ygFTJm0c=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: otncOZG21mw8ew/aFY/F4swt8TY=
+
+Name: app-release/res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: sbOreDPAl0vJJ+WYIL/HL6xnrLc=
+
+Name: app-release/res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: 1atcYmnuH+2fVEqEzaUJQ0veFTU=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_menu_hardkey_pan
+ el_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: LYh5wO7mcgtiq4fyzNQBKw1XFk8=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_default.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-xhdpi-v4/._ic_launcher_round.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_bar_title_item.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_menu_cut_mtr
+ l_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_screen_content_include.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: app-release/res/layout/abc_cascading_menu_item_layout.xml
+SHA1-Digest: msAhI2E9wjuHItMIIVIASOzRnyA=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_divider_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_
+ animation.xml
+SHA1-Digest: qJ8+3EVox19NusKPs2fMbA+sABk=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: app-release/res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_textfield_defau
+ lt_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_divider_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_on_mtrl_dot_group_a
+ nimation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_scrubber_prima
+ ry_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._ic_launcher_background.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_mode_close_item_mat
+ erial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_slide_in_bottom.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl
+ _alpha.png
+SHA1-Digest: Ouio2uWvH7XLWYfqzUwzwmjm/jM=
+
+Name: app-release/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_a
+ lpha.png
+SHA1-Digest: EW/WpNliEy+bQjDuiw+U1mX+yZk=
+
+Name: app-release/res/drawable-mdpi-v4/abc_textfield_search_activated_
+ mtrl_alpha.9.png
+SHA1-Digest: vt1oehKZp0gkRl4e+wzDTHdD7vI=
+
+Name: app-release/res/anim/abc_tooltip_exit.xml
+SHA1-Digest: MFRM51QcgTx0HzfJkVGSRuNkB1s=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_pressed_hol
+ o_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._notification_bg_nor
+ mal.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._interpolator
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.pn
+ g
+SHA1-Digest: OBELUky/hMRu50hd+fRgMPXT3ZE=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_scrubber_track_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.pn
+ g
+SHA1-Digest: UQXINsxHR6ofvfukurZilM7cjk4=
+
+Name: app-release/res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: /ZA9GNDhMYFrg47ctB33mmoEveM=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_spinner_mtrl_am
+ _alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_checkbox_checked_mtrl.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_textfield_search_default_m
+ trl_alpha.9.png
+SHA1-Digest: 7txkdhR3/M1+7pFXRocpYAeHrUg=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_radio_to_on_
+ mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 6YhtWAsUiy7rgFf39pW8NTlaACw=
+
+Name: __MACOSX/app-release/res/drawable/._abc_list_selector_background
+ _transition_holo_light.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_menu_share
+ _mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_middle_m
+ trl_dark.png
+SHA1-Digest: jF6QKRBg9OvlnbeWqmX8Uqm8bg8=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_middle_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ratingbar_small_material
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_voice_search_api_mate
+ rial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: Kk42CnG+Eg+ayTZqDTawYRygMwM=
+
+Name: app-release/res/layout-watch-v20/abc_alert_dialog_title_material
+ .xml
+SHA1-Digest: So3r0Z5AScteaxIwF63WcViQIeY=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_menu_share_mt
+ rl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_radio_to_
+ on_mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_scrubber_contr
+ ol_to_pressed_mtrl_005.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-mdpi-v4/._ic_launcher_round.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_text_select_handle_right
+ _mtrl_light.png
+SHA1-Digest: svcMy3RUKynkEHwirQYPCICt1tI=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_black
+ _48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_background_cache_hint_selector_materia
+ l_light.xml
+SHA1-Digest: MZfVcrsJ2eqgxw4OGGmm9uDaKR8=
+
+Name: app-release/res/color-v21/abc_btn_colored_borderless_text_materi
+ al.xml
+SHA1-Digest: Kc40HVjSM/Lb1D5zKNx1vpTUmgo=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_radio_to_on_
+ mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_menu_cut_mt
+ rl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._notification_bg_norm
+ al_pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_unchecked_box_in
+ ner_merged_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_pressed_h
+ olo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_textfield_defa
+ ult_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-hdpi-v17/._abc_spinner_m
+ trl_am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_checked_box_inne
+ r_merged_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_text_select_h
+ andle_left_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_menu_selectal
+ l_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_check_to_on
+ _mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_scrubber_control
+ _to_pressed_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_text_select_handle_right
+ _mtrl_dark.png
+SHA1-Digest: 1cl/IsP/z8hq0fSoUb3Z29rLRVM=
+
+Name: __MACOSX/app-release/res/drawable/._tooltip_frame_light.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_radio_to_
+ on_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha
+ .png
+SHA1-Digest: 5ThZFP/+iYVybD8ENFXZKyOzbaU=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_left_mtr
+ l_light.png
+SHA1-Digest: 8guTAEXvUmh+eaLeokeYvH7643o=
+
+Name: app-release/res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: JPsDZsWNGmMLquLaogjWR1+MJik=
+
+Name: app-release/res/drawable/abc_vector_test.xml
+SHA1-Digest: b2euNlIvLp8ulrB66gSvPmkEaLI=
+
+Name: app-release/res/drawable-mdpi-v4/abc_textfield_search_default_mt
+ rl_alpha.9.png
+SHA1-Digest: Nlc+uImNr3XAHY+m/5AsLmKxp/Q=
+
+Name: __MACOSX/app-release/res/layout/._activity_main.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: ww3XstLkCDx6d+2RS8Qng7G2LOQ=
+
+Name: __MACOSX/app-release/res/._drawable-xhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_scrubber_control
+ _to_pressed_mtrl_005.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-ldrtl-mdpi-v17
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_textfield_search_activate
+ d_mtrl_alpha.9.png
+SHA1-Digest: 0Y9UsvEngczHRCrU7qovm91bqxk=
+
+Name: app-release/res/drawable/btn_checkbox_unchecked_mtrl.xml
+SHA1-Digest: qiI9oMeylCVk+Wub01hGFDk4SZc=
+
+Name: __MACOSX/app-release/res/layout/._abc_popup_menu_header_item_lay
+ out.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.p
+ ng
+SHA1-Digest: t9VPTdr90769IpmI7+HjcPqUbI0=
+
+Name: app-release/res/drawable-watch-v20/abc_dialog_material_backgroun
+ d.xml
+SHA1-Digest: XplTYHOm6iN1FIH/Rck07fKTrZQ=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: q5BP6iz9no2ZdX9wgjUfIjqk8OY=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_check_to_on
+ _mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._switch_thumb_material_dark.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_unchecked_icon_n
+ ull_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.
+ png
+SHA1-Digest: uWfk23bm97GtczH2YvAwWP/eNOE=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.
+ png
+SHA1-Digest: NhH/qNsjwbuGc/0xqPrgqFgo+9o=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9
+ .png
+SHA1-Digest: K9eq+RzdRnJR/RmShTQFDj3n/88=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_scrubber_control_to_presse
+ d_mtrl_005.png
+SHA1-Digest: I9s6aQ5VyOLrNo4odqSij549Oyo=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: SaBB1uVR+6oONKiYA0HTOmVsmqE=
+
+Name: app-release/res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: tWuuGMgitge0pLjNjFu4jwP7hQE=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xhdpi-v17/._abc_spinner_
+ mtrl_am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_middle_
+ mtrl_light.png
+SHA1-Digest: NlZeJG8MEHDXkZ6eZeHaVGnlZgM=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_divider_mtr
+ l_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_menu_hardkey_p
+ anel_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_checkbox_unchecked_mtrl_animati
+ on_interpolator_0.xml
+SHA1-Digest: 8YKmDaoIyU5UJZwrlw5/59+pZKI=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.
+ 9.png
+SHA1-Digest: j75scoSTfHMNlHGrvDLzc6pLD5s=
+
+Name: app-release/res/anim/abc_popup_exit.xml
+SHA1-Digest: hmCazAiufevbgLIsep25litY6uw=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_switch_to
+ _on_mtrl_00012.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_half_
+ black_36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._notification_template_part_chr
+ onometer.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_half_bla
+ ck_48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_menu_copy_m
+ trl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout-watch-v20/._abc_alert_dialog_but
+ ton_bar_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: 8fJCg7KZL7GH/0RJUq4NRfhibxg=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_textfield_search_default_
+ mtrl_alpha.9.png
+SHA1-Digest: fJSE0nVY/aXx8gVbBmqEA4Ocoss=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._notify_panel_notifi
+ cation_icon_bg.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: gky0vG7UlZK8zxDSGjlHF05AXPU=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_scrubber_contro
+ l_off_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_half_bl
+ ack_48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_switch_to_
+ on_mtrl_00001.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_background_cache_hint_selec
+ tor_material_dark.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-xxhdpi-v4/._ic_launcher_round.pn
+ g
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_menu_cut_mtrl
+ _alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_a
+ lpha.png
+SHA1-Digest: cjG9sTPDRm4+Q3YgeyRUYPgo2LM=
+
+Name: __MACOSX/app-release/res/drawable/._abc_seekbar_tick_mark_materi
+ al.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_activity_chooser_view_list
+ _item.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_commit_sear
+ ch_api_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: Ql3jub/ygP7idt8d8MxN20oCbsc=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_
+ alpha.9.png
+SHA1-Digest: 0ZqXxaSPdx/iM1JIRZ2NCJNbgjw=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_scrubber_track_
+ mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_popup_background
+ _mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_radio_to_on_mtrl_ani
+ mation_interpolator_0.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/btn_radio_to_off_mtrl_ring_outer_path_anima
+ tion.xml
+SHA1-Digest: 55f/vMlo8YgsDfeRZafYauiAKOg=
+
+Name: app-release/res/drawable-v24/$ic_launcher_foreground__0.xml
+SHA1-Digest: 6368yg9CVyHHo6ZcXRRHiRvf1H0=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.
+ png
+SHA1-Digest: +TY+I9fpZ38ftBWokyGPSIm59vQ=
+
+Name: app-release/res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: JXImCSy37NGjNN/PhoLCywjZZIU=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ab_share_pack_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_black_
+ 36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: qGWqKRJ+WHo06PgjoTmcvLnBfy4=
+
+Name: __MACOSX/app-release/res/layout/._notification_template_part_tim
+ e.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_black_3
+ 6dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/btn_checkbox_to_unchecked_check_path_merged
+ _animation.xml
+SHA1-Digest: 2YJk/H7XXmNPZM4r2uCfPTnwBac=
+
+Name: __MACOSX/app-release/res/drawable-v21/._abc_action_bar_item_back
+ ground_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_right_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-v21/abc_action_bar_item_background_mate
+ rial.xml
+SHA1-Digest: /ATvzbtCOmzsuzCrQgdsnyY0I9I=
+
+Name: __MACOSX/app-release/res/color/._abc_btn_colored_text_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: kL4LQqtzwgDfe4wbT3opjdSvBVg=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_popup_backgroun
+ d_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-ldrtl-hdpi-v17
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: U/Tt6yt+pE7q1lRR3J9/q+A6bW4=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_left_m
+ trl_dark.png
+SHA1-Digest: GHXXmeZJAjb8EUS6oBJoqMQ0Mjg=
+
+Name: app-release/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha
+ .9.png
+SHA1-Digest: 5ETrJ0P6KM4asgYFS4qjNuLPsdI=
+
+Name: __MACOSX/app-release/res/drawable-v21/._abc_edit_text_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.
+ png
+SHA1-Digest: w83QFsgDIHscJu1mqT2UW8obr/Y=
+
+Name: app-release/res/color/abc_primary_text_disable_only_material_lig
+ ht.xml
+SHA1-Digest: XWFpBujiQOzzBV7Lcb+nV03v0kQ=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_menu_selec
+ tall_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_scrubber_cont
+ rol_to_pressed_mtrl_005.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_checkbox_unchecked_mtrl_animati
+ on_interpolator_1.xml
+SHA1-Digest: 8MpuwYdjLzcIJdUY+UVQ3ICY5ns=
+
+Name: app-release/res/drawable-xhdpi-v4/notification_bg_low_normal.9.p
+ ng
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_edittext.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alph
+ a.png
+SHA1-Digest: +F9A3ApomF++Ccyi3vyA4AvmXMw=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_black_16
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: vgGy8pBTjoL/yJmNDQQ42DiT8vg=
+
+Name: app-release/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_
+ animation.xml
+SHA1-Digest: taXwxkyR3UcbOo1VzN79VJANCC4=
+
+Name: app-release/res/anim/btn_radio_to_off_mtrl_dot_group_animation.x
+ ml
+SHA1-Digest: fL6y+B4Vt7tvNp/vL56FnFii8g0=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.
+ 9.png
+SHA1-Digest: jcVys2o//lE/gi8CNleCfwmdpOQ=
+
+Name: app-release/res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: 1gEjkB3HOw3IpnXGaaLZE+Sy4wM=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: lP85nXzNzaRJULgljjBQBBKL824=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_menu_hardkey_pan
+ el_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-ldrtl-xxhdpi-v17
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/layout/._abc_popup_menu_item_layout.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/select_dialog_item_material.xml
+SHA1-Digest: ZEc5ZAOCo8kq17XOfp6j7ec38NQ=
+
+Name: __MACOSX/app-release/res/layout-v21/._notification_template_icon
+ _group.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_textfield_searc
+ h_default_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_tint_edittext.xml
+SHA1-Digest: w2E+pfKGml2+4pUZJz/K2ChM7FQ=
+
+Name: app-release/res/drawable/tooltip_frame_light.xml
+SHA1-Digest: ECNiIT7b4Tj40yowldMOoeh3o64=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: app-release/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.
+ 9.png
+SHA1-Digest: Isoau2+nSwjWWXmKikdruk98JPA=
+
+Name: __MACOSX/app-release/res/anim/._abc_popup_enter.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: vqAibGk9PjCm4KkxnGmsMOidtYc=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.
+ png
+SHA1-Digest: ZYJ1BoJIcaecjErjG6bFDuhhj2Q=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-mdpi-v17/._abc_spinner_m
+ trl_am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_menu_selecta
+ ll_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout-v22/abc_alert_dialog_button_bar_material.
+ xml
+SHA1-Digest: QFJWf4uEwffKuBOUJ/G6oGCcL8E=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_a
+ lpha.9.png
+SHA1-Digest: SnKN2n5JIeGfnXk3e5jzVPWib4k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.pn
+ g
+SHA1-Digest: 6nL94lpOIDhHAcaZP6Numi9gbpw=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_selector_disabled_ho
+ lo_dark.9.png
+SHA1-Digest: DA+8uKYp0oG7fqW8KlROM93mcqQ=
+
+Name: __MACOSX/app-release/res/layout/._abc_activity_chooser_view.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_screen_simple.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_switch_track_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.pn
+ g
+SHA1-Digest: 8XIl4bSeXq0sG4+FeucZZjHT7Qw=
+
+Name: __MACOSX/app-release/res/._color-v21
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._color-v23
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: PSN0YdxgFXgW0evJwsV74M/8Uk0=
+
+Name: app-release/res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: nDP3ne1zK2q32/dBmPx6v+mPp+4=
+
+Name: app-release/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: hhHr9GWuE7CPEyO0eAZQsjbgqEw=
+
+Name: app-release/res/drawable/btn_checkbox_checked_mtrl.xml
+SHA1-Digest: lorsme/bDpD1w3cdHl7vFMRGtTw=
+
+Name: app-release/res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: JPsDZsWNGmMLquLaogjWR1+MJik=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 4eyqloBe4i++Lnjut9rv30zXGjc=
+
+Name: app-release/res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: 2romjJrZGiB9U7SYiAyf5FFsReE=
+
+Name: app-release/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_
+ alpha.png
+SHA1-Digest: C5G74tW2JFPwdcl//FtvBsXTaV8=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_scrubber_contr
+ ol_to_pressed_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_textfield_sear
+ ch_activated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v21/._abc_btn_colored_material
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_text_cursor_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_selector_disabled_holo
+ _light.9.png
+SHA1-Digest: W9bM0DI8HU3W5mDcsP2mPzT9VHs=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_black_48
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.pn
+ g
+SHA1-Digest: 91+SjRwS48rnNSkJl3hukfpvmrk=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.pn
+ g
+SHA1-Digest: vs5sXFVGnqpXFZuXg+uY+nALal4=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._notification_bg_low_
+ pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_middle_
+ mtrl_dark.png
+SHA1-Digest: 2yBDAHgYTM0FfiL8gWf0VdNXNwA=
+
+Name: app-release/res/drawable-hdpi-v4/notification_bg_low_pressed.9.p
+ ng
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: app-release/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.
+ xml
+SHA1-Digest: Tc99c4vdqMPp4MgvUur9lf8Q4Oo=
+
+Name: app-release/res/anim/abc_popup_enter.xml
+SHA1-Digest: 6RTnlB9IVp2rs1amwEm8IHT31g8=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_text_select_h
+ andle_right_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.p
+ ng
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: app-release/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alph
+ a.9.png
+SHA1-Digest: 34/BHr2WudsZR6oOAFDmPiDC6/w=
+
+Name: app-release/res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: kVe55qb0DwtwhFlrDu8dGOKyBrI=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_0000
+ 1.9.png
+SHA1-Digest: Vi4e1eOGqt4tlLviZFiIewDc19w=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_menu_copy_mtr
+ l_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: A4NRWtbWvOKVVO3MGs9wKvNobUE=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_scrubber_primary
+ _mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_unchecked_check_
+ path_merged_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: 1fX50nWeH1fxdrd8pw8vMwwVSxU=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_focused_hol
+ o.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_cab_background_t
+ op_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001
+ .9.png
+SHA1-Digest: NFfbz1bv3RO9ZYoDjJPGDh78fOU=
+
+Name: app-release/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alp
+ ha.9.png
+SHA1-Digest: SBazQIyTEXORINVc0Qu1mBBqGK8=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_scrubber_track_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.
+ png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._notify_panel_notific
+ ation_icon_bg.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_list_selector_disabled_holo
+ _dark.9.png
+SHA1-Digest: AOfMpNzBiO7X4QwYntEFRULIG9I=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: lZvYglov/F7rh1bqR+gIZerpDBA=
+
+Name: app-release/res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: c/JySMP3K3upfEb8gadPtwhqkes=
+
+Name: __MACOSX/._app-release
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: LJhGIJ9ykH+SLTXwcnjoa1J97NE=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_checked_box_oute
+ r_merged_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/switch_thumb_material_light.xml
+SHA1-Digest: BJE1kNqon5QE+R3DKPhAwcKKRdk=
+
+Name: app-release/res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: l/qNCy6wcmJdxxYm3EQ14gpmBrg=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_selector_
+ disabled_holo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_scrubber_control
+ _off_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/notification_template_part_chronometer.xm
+ l
+SHA1-Digest: Ssbfdi6HoNdb3IJJG/30wgUWs9o=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.
+ png
+SHA1-Digest: 6AUQvr7p0Ko0CIopYEr8tQssNCk=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_black_
+ 16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: knVOqclCgKMtL/kKxqyuPsjp870=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_left_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._notification_bg_nor
+ mal_pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: j71Es1OJ/pRHXKJxY8KTPt6PqoQ=
+
+Name: app-release/res/anim/btn_checkbox_to_checked_box_outer_merged_an
+ imation.xml
+SHA1-Digest: QDG7DSRubvuCa0Q/UBGMPz7RR1g=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_middle_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_middle_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_seek_thumb.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_btn_check_material_anim.xml
+SHA1-Digest: 3hc/yKX8neJFDeAcoW75SeWNE7w=
+
+Name: app-release/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: l9om1tBh1fkIZ9EZhtvKWD15Hn8=
+
+Name: __MACOSX/app-release/res/color/._abc_primary_text_disable_only_m
+ aterial_light.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_tab_indicator_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-v21/abc_list_divider_material.xml
+SHA1-Digest: INglm7ux6Cn+YD1tL/S+tyFEthI=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_
+ alpha.png
+SHA1-Digest: cG04d50tDB7eX3k8GXpvzf7ad6k=
+
+Name: app-release/res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: EUO9LPe1T8IY8QtiJvmg9r/l0cg=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_cab_background_t
+ op_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-ldrtl-xhdpi-v17
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._drawable
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_
+ mtrl_dark.png
+SHA1-Digest: FavPjuk6olEZey6sIq7rywmBBwY=
+
+Name: app-release/res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: CgmiCE5mWawqJo04Fbe6/Tia5QI=
+
+Name: app-release/res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: MgTHyHe1d9yHKdR4M5RdFiDg9T4=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.
+ png
+SHA1-Digest: fkHHafZ6woOU+hakgiXNdjO+G0o=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_text_select_h
+ andle_left_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_popup_backgrou
+ nd_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_item_background_holo_dar
+ k.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_menu_select
+ all_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alph
+ a.9.png
+SHA1-Digest: QkrkIsgl0goUJMF9TOYWcYiVBlQ=
+
+Name: __MACOSX/app-release/res/layout/._abc_dialog_title_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_check_to_
+ on_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_scrubber_control
+ _off_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_off_mtrl_dot_group_
+ animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9
+ .png
+SHA1-Digest: BsS8Hgum+u4dPVvrgYO8lOvmyU0=
+
+Name: app-release/res/drawable-hdpi-v4/abc_textfield_search_activated_
+ mtrl_alpha.9.png
+SHA1-Digest: +3NkVdmCmxwUpsSrvPVabmOED/8=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_right_m
+ trl_light.png
+SHA1-Digest: MoCkoRXaiGThFVhhLr4wDS0VuM4=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.
+ png
+SHA1-Digest: 6wmuQsGop94sACxKfh+EBLCBjJk=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mul
+ t.9.png
+SHA1-Digest: oWuW+wf7RDugzGE5OcOKk/wfAWQ=
+
+Name: app-release/res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: +GQMpVGpO+ARk6wM9F+XVQahB4A=
+
+Name: __MACOSX/app-release/res/layout/._abc_list_menu_item_radio.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_tab_indicator_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_left_mtr
+ l_light.png
+SHA1-Digest: joK0vcdx2mqj6rhHNblDhPDqav0=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001
+ .9.png
+SHA1-Digest: DuyQaJtshThL4AgyYcGva6U0fi0=
+
+Name: app-release/res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: 2PfEscc3Xv9UmcHqnWZ3iCAH8SA=
+
+Name: app-release/res/color/abc_primary_text_material_light.xml
+SHA1-Digest: dI7GXnq04+w8orYyWLJ5Xa3R8LM=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_btn_checkable.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_radio_to_on_mtrl_animation_inte
+ rpolator_0.xml
+SHA1-Digest: XIZl+5FGy36PEKQM23cTcPkvYtk=
+
+Name: __MACOSX/app-release/res/layout/._abc_search_dropdown_item_icons
+ _2line.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._color
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pres
+ sed_mtrl_005.png
+SHA1-Digest: LpI9vSEdW/n3iNzTIDS8ecyd2BM=
+
+Name: __MACOSX/app-release/res/anim/._abc_fade_in.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_000
+ 01.9.png
+SHA1-Digest: d/ygpuT2YiF/iIerQ2gw0iqKlSQ=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_textfield_activ
+ ated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout-v21/._notification_action_tombst
+ one.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_right_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.pn
+ g
+SHA1-Digest: 8Sb/L5pJ5dP5LYtTMluOvUh3sug=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_switch_to_on
+ _mtrl_00012.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_default.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.p
+ ng
+SHA1-Digest: BjYXNIGGhyqIB4Vq4khlEepKSZk=
+
+Name: __MACOSX/app-release/res/mipmap-hdpi-v4/._ic_launcher.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_middle
+ _mtrl_dark.png
+SHA1-Digest: RFU8ebcpWdq1WfG1+5m0rjD3S0w=
+
+Name: __MACOSX/app-release/res/._mipmap-mdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_al
+ pha.png
+SHA1-Digest: K1fb6Q4Ss1JZ+SleO0yJcwwYiRw=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_menu_cut_m
+ trl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: h+GglN330bwjpagOTZFJ9KD8WhY=
+
+Name: app-release/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.
+ png
+SHA1-Digest: S9B9R2/mI2xg2ic/WQABK/Xa6N4=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_menu_paste_mt
+ rl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_check_to_on_
+ mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/notification_bg_normal_pressed.
+ 9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.p
+ ng
+SHA1-Digest: Usq7Dzr/t1Xtrt8n6xUcjpoUU8g=
+
+Name: __MACOSX/app-release/res/anim/._btn_checkbox_to_checked_icon_nul
+ l_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_pressed_h
+ olo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_0001
+ 2.9.png
+SHA1-Digest: aNChK3Z5iNzvJ+qUQ3+OI+HRSrM=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_tab_indicator_
+ mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._custom_dialog.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._notification_bg_norm
+ al.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_tab_indicator_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_checkbox_checked_mtr
+ l_animation_interpolator_1.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_radio_on_mtrl.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_a
+ lpha.png
+SHA1-Digest: bjw5Qfj9OrAUagjyW3bicEthmg4=
+
+Name: app-release/res/drawable/btn_radio_on_mtrl.xml
+SHA1-Digest: BONbOw+leiGNJskuTAm0vbXjhBw=
+
+Name: app-release/res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: cSuGpr6Y+L+WnAe8akj0v51KWLI=
+
+Name: app-release/res/anim/btn_checkbox_to_unchecked_icon_null_animati
+ on.xml
+SHA1-Digest: NI/6YvXEZJBi2qpLmZZazheJHsY=
+
+Name: __MACOSX/app-release/res/drawable/._abc_spinner_textfield_backgr
+ ound_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._select_dialog_multichoice_mate
+ rial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: xGEdDat6HZkeJvkElk9ll1tal3w=
+
+Name: __MACOSX/app-release/res/drawable/._abc_cab_background_internal_
+ bg.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_right_mt
+ rl_light.png
+SHA1-Digest: VzgmMujgGVTkhZBrXgJyrBpI1fs=
+
+Name: app-release/res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: jnW7zCsNlhSm4hE4Sc1QxWAGulk=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.pn
+ g
+SHA1-Digest: Mv+KiFiSaa+WMki+npzbbru9CxE=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_pressed_hol
+ o_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxxhdpi-v17/._abc_spinne
+ r_mtrl_am_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/btn_checkbox_to_unchecked_box_inner_merged_
+ animation.xml
+SHA1-Digest: U3Y0XT32hKgi6vzU8X4bMtMF0dc=
+
+Name: app-release/res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: 5RUJE/5GAj0RC2mZN8QCxjIRhqw=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_left_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._mipmap-hdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.p
+ ng
+SHA1-Digest: cGHh4UvaT4+DpSX2tRF0+f5QOWY=
+
+Name: app-release/res/drawable-hdpi-v4/notification_bg_normal_pressed.
+ 9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_scrubber_primar
+ y_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._mipmap-xxxhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_menu_paste_
+ mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_textfield_search
+ _activated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-mdpi-v17/._abc_ic_menu_c
+ ut_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/AndroidManifest.xml
+SHA1-Digest: JGVxoKL9OilMWRQlYJEf9bYO9Y8=
+
+Name: app-release/res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: ZaX4250DZxjUY423EGJN6AGpNKM=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.pn
+ g
+SHA1-Digest: tGg+oO+KAbBY4x79vANaC6rdJz0=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_left_mtr
+ l_dark.png
+SHA1-Digest: Osfw11YL10WQkjXxgGt64AbLp0M=
+
+Name: app-release/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.p
+ ng
+SHA1-Digest: jHbaRf8LLd5WskXFtQ/l7iPzBWA=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_switch_track_mtr
+ l_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._notification_bg_low
+ _pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._notification_bg_low_
+ normal.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha
+ .9.png
+SHA1-Digest: aVVZGkuaO3JxZXGrC7e24cvdJrk=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_selector_di
+ sabled_holo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_list_menu_item_checkbox.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_screen_toolbar.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_check_to_on_
+ mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/abc_tooltip_enter.xml
+SHA1-Digest: bDAx1kJkw2m2RyNjw/cb8QdEZMc=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_
+ mtrl_light.png
+SHA1-Digest: sbqUAnAP9Ic0aSxtt345LLubAZ0=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_textfield_defaul
+ t_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-hdpi-v17/._abc_ic_menu_c
+ ut_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: pS2IISWVF11RXQXLyxHF6AODLJQ=
+
+Name: __MACOSX/app-release/res/drawable/._notification_bg.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: boYkf3ieeKvpWRtdat07zAfOzPI=
+
+Name: app-release/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alp
+ ha.9.png
+SHA1-Digest: 6cYteh91Z4QwwshoVAQi/kEme4s=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.pn
+ g
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: app-release/res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: rJdMaJroURar5TNMvP+Q79zzI2g=
+
+Name: __MACOSX/app-release/res/mipmap-xxhdpi-v4/._ic_launcher.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: app-release/res/drawable/abc_spinner_textfield_background_materi
+ al.xml
+SHA1-Digest: s3JCchRgxE3FYcxZEaRJeEx/RHU=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.p
+ ng
+SHA1-Digest: IKtTqnzlIY7DpFmknZLDUcK+O3s=
+
+Name: app-release/res/drawable-hdpi-v4/abc_list_selector_disabled_holo
+ _dark.9.png
+SHA1-Digest: N+oRdWM4aEr7cCiPhnfkKOx5fCA=
+
+Name: app-release/res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: YoZotPdjv8i7VdEtRklapMl8N7c=
+
+Name: app-release/res/anim/btn_checkbox_to_checked_icon_null_animation
+ .xml
+SHA1-Digest: xmu6AiQ66IPx/ZZixvqOdVmlewM=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_half_
+ black_16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_checkbox_checked_mtr
+ l_animation_interpolator_0.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout-v21/notification_action.xml
+SHA1-Digest: vzLdRNv9XoEdeRftHlMYXCCs7wM=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_radio_to_o
+ n_mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_radio_off_to_on_mtrl_ani
+ mation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_btn_switch_to
+ _on_mtrl_00001.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_bar_up_container.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: P/TePusgUK0jTzJbBXwUqj2ymIs=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_menu_overflow_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_switch_track_mtr
+ l_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_off_mtrl_ring_outer
+ _path_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_dialog_title_material.xml
+SHA1-Digest: PvdI0n+yu9Gr1khHQn82rB/d/4M=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_menu_hardkey_pa
+ nel_mtrl_mult.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_text_select_h
+ andle_right_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_primary_text_disable_only_m
+ aterial_dark.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alp
+ ha.9.png
+SHA1-Digest: 0RVQrQFoh01QC4jkUDLwEoHiG1w=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_pressed_ho
+ lo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._notification_bg_norm
+ al.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_middle_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.
+ png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxxhdpi-v17/._abc_ic_men
+ u_cut_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_switch_to_
+ on_mtrl_00012.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_list_selector_background
+ _transition_holo_dark.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_fade_out.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_half_bl
+ ack_16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_right_
+ mtrl_light.png
+SHA1-Digest: Fv+MHn2EjJlYrnRlsip5/7aL0Wg=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxhdpi-v17/._abc_ic_menu
+ _copy_mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-anydpi-v26/._ic_launcher.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/notification_bg_normal_pressed
+ .9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_middle_m
+ trl_dark.png
+SHA1-Digest: sk0rERRHxBHTLx83NS6FqhClw8o=
+
+Name: app-release/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alph
+ a.9.png
+SHA1-Digest: gKiVrtOwkElvYdVR/NWizJ5BcwE=
+
+Name: __MACOSX/app-release/res/layout-watch-v20/._abc_alert_dialog_tit
+ le_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_btn_checkable.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_menu_paste
+ _mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_menu_share_mt
+ rl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: YXgfepaazMNsoZ37OKGoetkmKeo=
+
+Name: __MACOSX/app-release/res/layout/._select_dialog_singlechoice_mat
+ erial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_left_mt
+ rl_dark.png
+SHA1-Digest: h2tBvFGRUrlGIzFUqIYNFF4jBTY=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_textfield_search
+ _activated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_btn_switch_to_on
+ _mtrl_00001.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/notification_bg_low_pressed.9.p
+ ng
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015
+ .png
+SHA1-Digest: 0OG2GgwzcQVFzj+BwQ+1UYki6vU=
+
+Name: __MACOSX/app-release/res/._drawable-xxhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/interpolator/._fast_out_slow_in.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.
+ png
+SHA1-Digest: zI176QlarHgsgLRcKJcYZrGV9ps=
+
+Name: __MACOSX/app-release/res/mipmap-hdpi-v4/._ic_launcher_round.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_right_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_scrubber_control_to_press
+ ed_mtrl_005.png
+SHA1-Digest: dOjymfO7tQPa8kQCGNculrdtmzM=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_right_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_black_36
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: rAYqfuNyM/wqrYvM32ADByZlp80=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: oKK0tOor4SmX4ORpTg/URmuOtes=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_textfield_defaul
+ t_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.p
+ ng
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: app-release/res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: app-release/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9
+ .png
+SHA1-Digest: rTYE4O39txuVAHn7iT1+qEUf0DQ=
+
+Name: app-release/res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: x/T0v6bUDPxVolU+a5r4YgOWHSc=
+
+Name: app-release/res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: wOj3SM5QQfAfQfoK8xtGNnFGjLc=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_on_mtrl_ring_outer_
+ animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_black_16
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/._AndroidManifest.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._layout-v22
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable/._abc_seekbar_track_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._layout-v21
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._layout-v26
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._notification_bg_norm
+ al_pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_slide_out_bottom.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._anim
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/layout/abc_screen_content_include.xml
+SHA1-Digest: d2c3IX8egTwj7KuSTiczli+MH2s=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_half_b
+ lack_16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_arrow_drop_right_blac
+ k_24dp.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.p
+ ng
+SHA1-Digest: ELHP/ybr6BY6lvp/69V+RfkZTGQ=
+
+Name: app-release/res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: wXhuqSHqNBL85zQ3/oBjzqKjNHk=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_btn_colored_text_materi
+ al.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_text_select_hand
+ le_left_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_shrink_fade_out_from_bottom.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_longpressed
+ _holo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_left_m
+ trl_light.png
+SHA1-Digest: rSwsu8lyFJ2T0/pa5u4O8/J64aI=
+
+Name: app-release/res/drawable/abc_list_selector_background_transition
+ _holo_light.xml
+SHA1-Digest: khWZvq3ZUbGEZ51WdMCqqybzn6c=
+
+Name: app-release/res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: ZdmmJeIMG8zCNTG1uIR3F2TfOm0=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_radio_to_on
+ _mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/notification_template_part_time.xml
+SHA1-Digest: POdlWEryr1ByhzeqDNGn37PWc74=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: nEfj0nfPBbqur1eTMAml8UkS7G0=
+
+Name: __MACOSX/app-release/res/drawable/._abc_seekbar_thumb_material.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.pn
+ g
+SHA1-Digest: doXTq0PGlseahO7qxrAxAjB7JIA=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_al
+ pha.9.png
+SHA1-Digest: CUTo0hgVLf4sZdNMZeKkTge3hSE=
+
+Name: __MACOSX/app-release/res/color/._abc_secondary_text_material_dar
+ k.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_background_cache_hint_selec
+ tor_material_light.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_hint_foreground_material_li
+ ght.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-xxxhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/color-v23/abc_tint_default.xml
+SHA1-Digest: 1rMIhmGKsAjwDVuNHh0wS+ku3hs=
+
+Name: __MACOSX/app-release/res/drawable-watch-v20/._abc_dialog_materia
+ l_background.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_hint_foreground_material_da
+ rk.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_list_selector_disabled_hol
+ o_dark.9.png
+SHA1-Digest: 0Uc/urney5nbDkvJXgkNA5eBpug=
+
+Name: app-release/res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: pknkWuEwiXPConErZqOaKMxMv8c=
+
+Name: __MACOSX/app-release/res/._mipmap-xxhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/layout/._abc_alert_dialog_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_btn_switch_to_o
+ n_mtrl_00001.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_mode_bar.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_menu_paste_mt
+ rl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_right_m
+ trl_dark.png
+SHA1-Digest: GuKSrhMJG9+hk/tPX2xPNfs4cy0=
+
+Name: __MACOSX/app-release/res/drawable-v24/._$ic_launcher_foreground_
+ _0.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v21/._abc_list_divider_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_textfield_search_activated
+ _mtrl_alpha.9.png
+SHA1-Digest: Oww70i6CDjqOpiLdYxpURXuj7DY=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_radio_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_spinner_mtrl_am_
+ alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout-v22/._abc_alert_dialog_button_ba
+ r_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-v24/ic_launcher_foreground.xml
+SHA1-Digest: VYbSkWpEQSrMNU9Ky1pNvmsg2R4=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl
+ _alpha.png
+SHA1-Digest: rciAiTdJ+MRPTsG/UvNRmHGoqCA=
+
+Name: app-release/res/color/switch_thumb_material_dark.xml
+SHA1-Digest: w9DwnE1xM8FDObzJtLdJrcRG918=
+
+Name: __MACOSX/app-release/res/color/._abc_tint_switch_track.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.
+ png
+SHA1-Digest: Q9A39Gubbfmvh6wgqcLHzLWlGtU=
+
+Name: app-release/res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+SHA1-Digest: qwSYYt9ABYMnOW88lzY8t06psfo=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.pn
+ g
+SHA1-Digest: uftsHSNmkb7m90jrsRX95EC5rJ4=
+
+Name: __MACOSX/app-release/res/._drawable-v21
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._drawable-v23
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/._drawable-v24
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/interpolator/fast_out_slow_in.xml
+SHA1-Digest: 7FoCRJfJcf8AaYwhL/yEzlzTJFg=
+
+Name: __MACOSX/app-release/res/._mipmap-xhdpi-v4
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.p
+ ng
+SHA1-Digest: JPdqp3Utz4eGl5Yd4o1J/WbUozw=
+
+Name: app-release/res/layout/abc_screen_simple.xml
+SHA1-Digest: ERgz6uvASn2S9JBOcXIy8Ib7G/k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alp
+ ha.9.png
+SHA1-Digest: dk0LWqCARlbxH1k2prVePUnbuQM=
+
+Name: app-release/res/anim/abc_slide_in_top.xml
+SHA1-Digest: hWrdXoC/eBvOmJQhh4BPUNvOFC4=
+
+Name: __MACOSX/app-release/res/anim/._abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.pn
+ g
+SHA1-Digest: xc9EUi8JbA506uG62boWpLo9DB8=
+
+Name: __MACOSX/app-release/res/drawable/._tooltip_frame_dark.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_action_menu_layout.xml
+SHA1-Digest: 1M//a9Ii23eqnBeSorIXHbQkgAM=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.
+ png
+SHA1-Digest: O6eAL2M6qoFDRV9peChQYqmfUZk=
+
+Name: __MACOSX/app-release/res/anim/._abc_popup_exit.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/interpolator/btn_radio_to_off_mtrl_animation_int
+ erpolator_0.xml
+SHA1-Digest: XIZl+5FGy36PEKQM23cTcPkvYtk=
+
+Name: app-release/res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: uwnIfPoXy1QtvGBlyF8RB1WsF8I=
+
+Name: __MACOSX/app-release/res/._layout-watch-v20
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_textfield_acti
+ vated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animat
+ ion.xml
+SHA1-Digest: eJoDPhCEsXDWhKpj3HzEYJ+oBdA=
+
+Name: app-release/res/layout-watch-v20/abc_alert_dialog_button_bar_mat
+ erial.xml
+SHA1-Digest: HwtEz8ugMHm4u9dPY8FZto+WUCw=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_
+ alpha.png
+SHA1-Digest: TE1PNkVCa4/Qe4l6j08Ay94JJoI=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_ic_star_black
+ _16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: 52uR0w+CXIwph7AeHoGEMKdpztw=
+
+Name: app-release/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.pn
+ g
+SHA1-Digest: 21KY7k5nhCbUYd/od+FyqRUvm2Q=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mu
+ lt.9.png
+SHA1-Digest: vJO912sCo6TVhmyen6quV0Oc7EY=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_menu_copy_mtr
+ l_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_checkbox_unchecked_m
+ trl_animation_interpolator_0.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_switch_track_m
+ trl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ab_share_pack_
+ mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_
+ am_alpha.png
+SHA1-Digest: QyrilM6n+5uQi4WyzI0NsxXANtA=
+
+Name: __MACOSX/app-release/res/drawable/._notification_bg_low.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed
+ _mtrl_005.png
+SHA1-Digest: NW/i+ex7+hXHYfPT2kBfhzB79kE=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_right_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_middle_m
+ trl_light.png
+SHA1-Digest: izNlbouSIXW9/WiRR/UlgyT9VEs=
+
+Name: app-release/res/color-v23/abc_btn_colored_borderless_text_materi
+ al.xml
+SHA1-Digest: 8aqFmTMv8hZv3/tm6J0pYt12XTU=
+
+Name: app-release/res/color/abc_primary_text_disable_only_material_dar
+ k.xml
+SHA1-Digest: TcJb1ir2B+CYRDijbdm1cp22Xqc=
+
+Name: app-release/res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: u7wXSY3tygZ7bzYaua13SupgV3Y=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_color_highlight_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.p
+ ng
+SHA1-Digest: ivpLQ63tfOD0ISnUmDRNp3o0jBk=
+
+Name: app-release/res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+SHA1-Digest: WGLMqXyPta88d6NsKvOp4fXtjag=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9
+ .png
+SHA1-Digest: Vwg9DnRYcLothTH8G1XotfneeGk=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_list_focused_hol
+ o.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_btn_radio_material_anim.xml
+SHA1-Digest: GlMhVBoyWrS+aWLJADuVyirMR4I=
+
+Name: app-release/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed
+ _mtrl_000.png
+SHA1-Digest: 69Uq0XVEEDCz62q7/piNqhuoD7Q=
+
+Name: app-release/res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: ROUgIoQClpazz7AHx3sr4FexTQU=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha
+ .png
+SHA1-Digest: uwiP3ApwLduQ11Jf4UyIGf8WaSw=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_menu_paste_m
+ trl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_left_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_black_36
+ dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/abc_fade_in.xml
+SHA1-Digest: L0IgyYapku8uZtPqOfviagHTIEk=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_cab_background
+ _top_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.
+ png
+SHA1-Digest: MMW5ShwB1m9oRvGdlbR//t0h77U=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_scrubber_contr
+ ol_off_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alp
+ ha.png
+SHA1-Digest: h4G5TeOQ9xufiMtoFfAe3fINBds=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015
+ .png
+SHA1-Digest: goxOqApFWDjSlcueZaQmSCez9dk=
+
+Name: __MACOSX/app-release/res/layout-v21/._notification_template_cust
+ om_big.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_scrubber_contro
+ l_to_pressed_mtrl_005.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/resources.arsc
+SHA1-Digest: 4z0OEEmFGFnvJIMLjgcHZ6QyD6Y=
+
+Name: app-release/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.x
+ ml
+SHA1-Digest: aJ9isJgdryY51PNZT0stGo3k1/Y=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_text_select_han
+ dle_middle_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/anim/._abc_tooltip_enter.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_btn_radio_to_on_
+ mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl
+ _am_alpha.png
+SHA1-Digest: ZMTKws3Yf0EOK1CpWECY7+yKtn0=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000
+ .png
+SHA1-Digest: ++0JraYcPG1W6gax2v1T4h5rv9E=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_textfield_activa
+ ted_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_text_select_handle_right_
+ mtrl_dark.png
+SHA1-Digest: NlLE4WLe09sFAjGcYGx9OeUuyzA=
+
+Name: app-release/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_al
+ pha.9.png
+SHA1-Digest: 3cZf9KzrmZte69Ku90PuR5co0UQ=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_half_bla
+ ck_48dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/btn_radio_off_mtrl.xml
+SHA1-Digest: 2PD+x8t/DLGvHQP5dERx3iZ2ARE=
+
+Name: app-release/res/drawable/notification_tile_bg.xml
+SHA1-Digest: Y9UrNkrJVwVP4375KaOx9wBmK8c=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: BlslH4QYPV8tPkeyq5iFkcDXUkc=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._notify_panel_notific
+ ation_icon_bg.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_cab_background_top_mater
+ ial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9
+ .png
+SHA1-Digest: RsOvN/pL+j8WdnF7lGHO1mzkFTs=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_selector_
+ disabled_holo_dark.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_expanded_menu_layout.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_textfield_search
+ _default_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_list_selector_holo_dark.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_selector_di
+ sabled_holo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 0pZEH/xvvGcZULZXlcabKxti6Jk=
+
+Name: app-release/res/drawable-xhdpi-v4/notify_panel_notification_icon
+ _bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.
+ 9.png
+SHA1-Digest: D1jsYZU4cTnehZn5HOpfi6V3kmU=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_radio_to_o
+ n_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/notification_bg_low.xml
+SHA1-Digest: Jhppm1aFJfRA/nFlcxjoaNCzrZg=
+
+Name: app-release/res/layout/activity_main.xml
+SHA1-Digest: 1F8bil9Urw/G1Uwmm8VGRCgej0E=
+
+Name: app-release/res/anim/abc_slide_out_top.xml
+SHA1-Digest: 2z52s7kOKA0SBxW+QVgoPtaoSl4=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pres
+ sed_mtrl_000.png
+SHA1-Digest: WvHioMVsEnLk1hJoq6dqHvhFfjA=
+
+Name: app-release/res/drawable-v21/notification_action_background.xml
+SHA1-Digest: YB0uRtolis0t51F+tvqtP8bKPTU=
+
+Name: app-release/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mul
+ t.9.png
+SHA1-Digest: hYMrgbTr/PmCKthwQQt0K9OlI8w=
+
+Name: __MACOSX/app-release/res/drawable/._btn_checkbox_unchecked_to_ch
+ ecked_mtrl_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_al
+ pha.png
+SHA1-Digest: +/cT3+0N8I+XSw0FPP5O3x2f5g4=
+
+Name: __MACOSX/app-release/res/layout/._abc_alert_dialog_button_bar_ma
+ terial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_menu_share_
+ mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_check_material_anim.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: s2HqYqN+23cxQddQXP8tIu2VOx8=
+
+Name: __MACOSX/app-release/._resources.arsc
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_checkbox_unchecked_m
+ trl_animation_interpolator_1.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-mdpi-v17/._abc_ic_menu_c
+ opy_mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: LT/K8YQrPGMA1+J5e/zY2xGFhQg=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_check_to_o
+ n_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_text_select_handle_left_mt
+ rl_light.png
+SHA1-Digest: BrhcG9gnMxL5cZcJ0jDTmMfIM6o=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_switch_track_
+ mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: YRxj4jNvLLhxSMacYqUOczkp45I=
+
+Name: __MACOSX/app-release/res/drawable/._abc_textfield_search_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_list_pressed_ho
+ lo_light.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-hdpi-v17/._abc_ic_menu_c
+ opy_mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_star_half_bla
+ ck_16dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_list_focused_h
+ olo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9
+ .png
+SHA1-Digest: tC6uw2w2e+vYOuhd45mTIYRtoKE=
+
+Name: __MACOSX/app-release/res/color/._abc_search_url_text.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxxhdpi-v4/._abc_scrubber_cont
+ rol_to_pressed_mtrl_000.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed
+ _mtrl_005.png
+SHA1-Digest: Fs9wHncn0Hs9X2gBgK72twTeEAg=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_half_bl
+ ack_36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_radio_on_to_off_mtrl_ani
+ mation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_search_view.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_right_mt
+ rl_dark.png
+SHA1-Digest: OW+ZULMA0miOKqqKj1wk15SSUFQ=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_star_half_bla
+ ck_36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/notification_bg_low_normal.9.pn
+ g
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_btn_colored_borderless_
+ text_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_textfield_activa
+ ted_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/mipmap-xhdpi-v4/._ic_launcher.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color/._abc_primary_text_material_dark.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: LkQ0AGNnn/9ZdHlC8uHiIx/6kn0=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_al
+ pha.png
+SHA1-Digest: bvkSnzG+4r12dRWJRd9DLrqCzfU=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_middle_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_al
+ pha.9.png
+SHA1-Digest: UZd7U0EAzo4OsRzIvxyVHc0jdI0=
+
+Name: app-release/res/layout/abc_select_dialog_material.xml
+SHA1-Digest: lt2vt41Kx3G817Dx4EWPbVtm85o=
+
+Name: __MACOSX/app-release/res/layout/._abc_tooltip.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_ic_commit_search
+ _api_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: gs4JusrkTIW8zdNyc+ZQsgLrFI8=
+
+Name: __MACOSX/app-release/res/._drawable-watch-v20
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00
+ 001.9.png
+SHA1-Digest: sOzFy8p0z5aqGsrWEATtwLsgEH0=
+
+Name: app-release/res/drawable/notification_bg.xml
+SHA1-Digest: Ouq0adbLYn5wIDmtW+zW9RvslWM=
+
+Name: app-release/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_a
+ lpha.png
+SHA1-Digest: u6bTvtbDXJXOGa13pLv0kzefZXk=
+
+Name: __MACOSX/app-release/res/layout/._abc_select_dialog_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_middle_m
+ trl_light.png
+SHA1-Digest: 10kBvBUte2AZyag/8SjtRBJJBog=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.p
+ ng
+SHA1-Digest: i6pCyKNDkCGzNzTp71ixAq/8VCM=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_btn_check_to_o
+ n_mtrl_015.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/interpolator/._btn_radio_to_off_mtrl_an
+ imation_interpolator_0.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_text_select_handle_right_mt
+ rl_light.png
+SHA1-Digest: 0Gfqa0wEfQSI0mKJkwlXlJWSicQ=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._notification_bg_low_
+ pressed.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._select_dialog_item_material.xm
+ l
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_btn_check_material.xml
+SHA1-Digest: Iursv6NKo26NP8n0C+3pIlS4uEQ=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_list_longpressed
+ _holo.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_ic_star_black_4
+ 8dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_a
+ lpha.9.png
+SHA1-Digest: fi4OdS/Tb40gOJmL0+YFTyqMxb4=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xhdpi-v17/._abc_ic_menu_
+ copy_mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_right_mtrl_light.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: Fhe4CC1MCnl5q6VJt8vUPa6iSsI=
+
+Name: app-release/res/drawable-hdpi-v4/notification_bg_low_normal.9.pn
+ g
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ic_commit_search
+ _api_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v21/._abc_dialog_material_back
+ ground.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xxxhdpi-v17/._abc_ic_men
+ u_copy_mtrl_am_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_checkbox_unchecked_mtrl.
+ xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_checkbox_checked_to_unch
+ ecked_mtrl_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._btn_radio_off_mtrl.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_left_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: MKGjU4bqRBICJc8VpguKG/GcMIw=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_ic_star_half_b
+ lack_36dp.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_ab_back_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_tint_switch_track.xml
+SHA1-Digest: 8TdpsmrObqh3ydwVTaz4FCA0DuQ=
+
+Name: __MACOSX/app-release/res/drawable/._notification_icon_background
+ .xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_text_select_handle_right_mt
+ rl_dark.png
+SHA1-Digest: 3J5pByYkZRz7TetQA7yaxvDvbrk=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ratingbar_indicator_mate
+ rial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/._drawable-ldrtl-xxxhdpi-v17
+SHA1-Digest: Ef1FQPMYbOlhJj4mXg56liDp9zg=
+
+Name: app-release/res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: 4DYMCKvs8YEgDQo/aRPlN8LzWx8=
+
+Name: app-release/res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: fH0nL2Tuy9o4BJCZgjAYWFam7uk=
+
+Name: __MACOSX/app-release/res/anim/._btn_radio_to_on_mtrl_ring_outer_
+ path_animation.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/custom_dialog.xml
+SHA1-Digest: PcEu3DYQplMxiXEe/RDk7gFUvB4=
+
+Name: __MACOSX/app-release/res/drawable-mdpi-v4/._abc_ab_share_pack_mt
+ rl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_switch_track.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable/._abc_ic_go_search_api_materia
+ l.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-v23/._abc_control_background_m
+ aterial.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout/abc_screen_toolbar.xml
+SHA1-Digest: KD/saZizwAc+i9I3Dp773wcRkIA=
+
+Name: app-release/res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: CmSWrJPdMzAhKQc+moJNtYEveIY=
+
+Name: app-release/res/layout/abc_search_view.xml
+SHA1-Digest: 1TMdKb4PBxuUxKyn6cWoSTM+u4Q=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_spinner_mtrl_am_
+ alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_background_cache_hint_selector_materia
+ l_dark.xml
+SHA1-Digest: xX67ts0raWp4ceUwkXhnqNq9Klo=
+
+Name: __MACOSX/app-release/res/drawable/._abc_btn_default_mtrl_shape.x
+ ml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_action_menu_layout.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alp
+ ha.png
+SHA1-Digest: ZqCBR70J+G8APLB6odEE4sbBMrY=
+
+Name: app-release/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xm
+ l
+SHA1-Digest: Kpd8RuoQ8wdhuAaSn9EVgOBneaQ=
+
+Name: __MACOSX/app-release/res/drawable-xxhdpi-v4/._abc_text_select_ha
+ ndle_left_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/layout/._abc_screen_simple_overlay_acti
+ on_mode.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-ldrtl-xhdpi-v17/._abc_ic_menu_
+ cut_mtrl_alpha.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: AfbQuyZF1JMvjiaXDfLvtNLgncI=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_textfield_search
+ _default_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alp
+ ha.png
+SHA1-Digest: pSQWRqoWzxoeprY+bJcbqPYnS9w=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._notification_bg_low
+ _normal.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/color/abc_search_url_text.xml
+SHA1-Digest: f8EfonWh4XoSi2ltOLAlEW6OO0Q=
+
+Name: __MACOSX/app-release/res/drawable-xhdpi-v4/._abc_textfield_searc
+ h_activated_mtrl_alpha.9.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha
+ .9.png
+SHA1-Digest: /irrV5qi5QeT+gQcCsR8hXIg+Xk=
+
+Name: app-release/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: pUh1yzyRb6c3D0mL7cI4wKExeTI=
+
+Name: app-release/res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: R/Bwb3CBqh5vFdhHvtD4mn2/ILo=
+
+Name: __MACOSX/app-release/res/color-v21/._abc_btn_colored_borderless_
+ text_material.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_scrubber_control
+ _to_pressed_mtrl_005.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: __MACOSX/app-release/res/color-v23/._abc_tint_seek_thumb.xml
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/layout-v26/abc_screen_toolbar.xml
+SHA1-Digest: /lQzlVELOMvAWHw2hT+wagrkQs0=
+
+Name: app-release/res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: v6ozX4M8QQnQspgOm2rVprsbCv4=
+
+Name: __MACOSX/app-release/res/drawable-hdpi-v4/._abc_text_select_hand
+ le_middle_mtrl_dark.png
+SHA1-Digest: mKJOb23s/6Sd86gX1MKY60GWG8k=
+
+Name: app-release/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: nrSR6Cj5AAFhLDBo5XOuCzzOUCE=
+
+Name: app-release/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alp
+ ha.png
+SHA1-Digest: 99GkU44EvefOaxLCiFW5KAUEIJQ=
+
