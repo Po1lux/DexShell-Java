@@ -128,8 +128,8 @@ public class ProxyApplication extends Application {
 
         Application app = (Application)RefInvoke.invokeMethod("android.app.LoadedApk","makeApplication",
                 mLoadedApk,new Class[]{boolean.class, Instrumentation.class},new Object[]{false,null});
-        RefInvoke.setFieldObject("android.app.ActivityThread","mInitialApplication",
-                mcurrentActivityThread,app);
+//        RefInvoke.setFieldObject("android.app.ActivityThread","mInitialApplication",
+//                mcurrentActivityThread,app);
 
         //---set ActivityThread#mInitialApplication
         RefInvoke.setFieldObject("android.app.ActivityThread","mInitialApplication",
